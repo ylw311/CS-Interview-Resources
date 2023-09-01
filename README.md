@@ -16,3 +16,14 @@
 [Tech Interview Handbook](https://www.techinterviewhandbook.org/) <sub><sup> Interview Preperation Guide </sup></sub>
 
 [Grind 75](https://www.techinterviewhandbook.org/grind75) <sub><sup> Customize LeetCode study plans according to your needs. </sup></sub>
+
+
+[Neetcode](https://neetcode.io/) <sub><sup> Customize LeetCode study plans according to your needs. </sup></sub>
+
+[Leetcode Patters](https://seanprashad.com/leetcode-patterns/) <sub><sup> Do leetcode based on category. </sup></sub>
+
+[Visualize PathFinding Algorithms](https://qiao.github.io/PathFinding.js/visual/) <sub><sup> Visualize Pathfinding algorithms. </sup></sub>
+
+
+[Big O Cheatsheet](https://www.bigocheatsheet.com/) <sub><sup> Cheatsheet of time and space complexities of different algorithms. </sup></sub>
+
