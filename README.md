@@ -20,7 +20,7 @@
 
 [Neetcode](https://neetcode.io/) <sub><sup> Customize LeetCode study plans according to your needs. </sup></sub>
 
-[Leetcode Patters](https://seanprashad.com/leetcode-patterns/) <sub><sup> Do leetcode based on category. </sup></sub>
+[Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) <sub><sup> Do leetcode based on category. </sup></sub>
 
 [Visualize PathFinding Algorithms](https://qiao.github.io/PathFinding.js/visual/) <sub><sup> Visualize Pathfinding algorithms. </sup></sub>
 
