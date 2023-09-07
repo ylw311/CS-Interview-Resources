@@ -2,11 +2,16 @@
 
 
 ## Books
+
 [Cracking The Coding Interview 6th Edition Paper Copy](https://drive.google.com/file/d/1tK1d7q4FKfPEQeswIne_7gJzTlWN3aRz/view?usp=sharing)
 <sub><sup> Gayle Laakmann McDowell - 189 PROGRAMMING QUESTIONS & SOLUTIONS</sup></sub>
 
 
 [Competitive Programmer's Handbook.pdf](https://github.com/ylw311/Books/blob/ebbd6ecb941c9c6c235d5500b7e0ff2dd6d1733d/Competitive%20Programmer's%20Handbook%20-%20Antti%20Laaksonen%20-%20(10th%20December%2C%202017).pdf) <sub><sup>Antti Laaksonen - 10th December, 2017</sup></sub>
+
+[Tech Interview Handbook](https://www.techinterviewhandbook.org/) <sub><sup>Brought to you by the author of Blind 75</sup></sub>
+
+[Front End Interview Handbook](https://www.frontendinterviewhandbook.com/) <sub><sup>Open-source handbook created through GitHub</sup></sub>
 
 
 ## Resources
@@ -26,4 +31,33 @@
 
 
 [Big O Cheatsheet](https://www.bigocheatsheet.com/) <sub><sup> Cheatsheet of time and space complexities of different algorithms. </sup></sub>
+
+## Job Boards
+
+[Carbos](https://www.carbosjobs.com/) <sub><sup> Aggregated job board for US/Canadian internships with recruiter contacts. <sup><sub>
+
+[YC Internship Program](https://www.workatastartup.com/internships) <sub><sup> YC-hosted program that connects startup-minded students with rising startups. <sup><sub>
+
+[Pitt CSC x Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships) <sub><sup> Actively maintained US internship job board with some off season postings. <sup><sub>
+
+[Northwestern FinTech Repo](https://github.com/northwesternfintech/2024QuantInternships) <sub><sup> S24 quant internship job board. <sup><sub>
+
+[Canadian Tech Internships](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) <sub><sup> Job board for solely Canadian internships. <sup><sub>
+
+[S24 SWE Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) <sub><sup> Summer 2024 SWE role job board. <sup><sub>
+
+[Tech/New Grad Positions](https://github.com/Trident-Development/2024-new-grad-intern) <sub><sup> All-season job board for both internships and new grad tech positions. <sup><sub>
+
+
+## Software
+
+[CSCareers](https://www.cscareers.dev/) <sub><sup> Rising platform for job postings and application tracking functionality. <sup><sub>
+
+[Simplify](https://simplify.jobs/) <sub><sup> Browser extension for autofilling job applications. <sup><sub>
+
+[levels.fyi](https://www.levels.fyi/internships/) <sub><sup> Internship platform for checking role compensations. <sup><sub>
+
+
+
+
 
