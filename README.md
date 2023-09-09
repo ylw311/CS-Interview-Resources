@@ -10,11 +10,11 @@
 
 [Tech Interview Handbook](https://www.techinterviewhandbook.org/) <sub><sup>Brought to you by the author of Blind 75</sup></sub>
 
-[A Gentle Introduction to Optimization](https://www.frontendinterviewhandbook.com/) <sub><sup>Recommended book for UWaterloo's CO250 course</sup></sub>
+[A Gentle Introduction to Optimization](https://drive.google.com/file/d/1Ha2Iy8JK6gLsc4YzDXj49CKNbsgLFfYI/view?usp=sharing) <sub><sup>Recommended book for UWaterloo's CO250 course</sup></sub>
 
 
 
-[Competitive Programmer's Handbook.pdf](https://drive.google.com/file/d/1Ha2Iy8JK6gLsc4YzDXj49CKNbsgLFfYI/view?usp=sharing) <sub><sup>Antti Laaksonen - 10th December, 2017</sup></sub>
+[Competitive Programmer's Handbook.pdf](https://www.frontendinterviewhandbook.com/) <sub><sup>Antti Laaksonen - 10th December, 2017</sup></sub>
 
 
 ## Resources
