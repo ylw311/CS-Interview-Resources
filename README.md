@@ -1,4 +1,4 @@
-# Personal Collection of Interview/Programming Resources
+# Collection of Interview/Programming Resources
 
 
 ## Books
