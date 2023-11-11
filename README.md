@@ -51,6 +51,15 @@
 
 [Tech/New Grad Positions](https://github.com/Trident-Development/2024-new-grad-intern) <sub><sup> All-season job board for both internships and new grad tech positions. <sup><sub>
 
+[SWE List](https://swelist.com/)
+
+[APM List](https://apmlist.com/)
+
+[APM Season](https://apmlist.com/)
+
+[Work at a Startup](https://www.workatastartup.com/) <sub><sup> Apply to top YC startup jobs with a single profile. <sup><sub>
+
+[Gen She](https://jobs.generationshe.co/)  <sub><sup> Girl power :) <sup><sub>
 
 ## Software
 
