@@ -70,6 +70,16 @@
 [levels.fyi](https://www.levels.fyi/internships/) <sub><sup> Internship platform for checking role compensations. <sup><sub>
 
 
+## Additional Resources
+
+[Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+[Developer's Handbook](https://github.com/kamranahmedse/developer-roadmap)
+
+[Build Your Own __](https://github.com/codecrafters-io/build-your-own-x)
+
+[Public APIs](https://github.com/public-apis/public-apis)
+
 
 
 
