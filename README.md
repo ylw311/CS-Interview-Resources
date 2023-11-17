@@ -16,6 +16,8 @@
 
 [Competitive Programmer's Handbook.pdf](https://www.frontendinterviewhandbook.com/) <sub><sup>Antti Laaksonen - 10th December, 2017</sup></sub>
 
+[Understanding Deep Learning](https://udlbook.github.io/udlbook/) <sub><sup>by Simon J.D. Prince - Draft Version to be published by MIT Press Dec 5th 2023.</sup></sub>
+
 
 ## Resources
 
