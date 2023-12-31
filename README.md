@@ -19,6 +19,8 @@
 [Understanding Deep Learning](https://udlbook.github.io/udlbook/) <sub><sup>by Simon J.D. Prince - Draft Version to be published by MIT Press Dec 5th 2023.</sup></sub>
 
 
+[Machine Learning - A Probabilistic Perspective](http://noiselab.ucsd.edu/ECE228/Murphy_Machine_Learning.pdf) <sub><sup> by Kevin P. Murphy, from University of California San Dieg </sup></sub>
+
 ## Resources
 
 [Set of "Equivalent" Leetcode Questions For Cracking The Coding Interview Book](https://leetcode.com/discuss/general-discussion/1152824/cracking-the-coding-interview-6th-edition-in-leetcode)
