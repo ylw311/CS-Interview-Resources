@@ -51,6 +51,8 @@
 
 [Canadian Tech Internships](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) <sub><sup> Job board for solely Canadian internships. <sup><sub>
 
+[Hanzilla Jobs](https://jobs.hanzilla.co/internships/) <sub><sup> Daily-updated Canadian student and recent-grad jobs board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more. <sup><sub>
+
 [S24 SWE Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) <sub><sup> Summer 2024 SWE role job board. <sup><sub>
 
 [Tech/New Grad Positions](https://github.com/Trident-Development/2024-new-grad-intern) <sub><sup> All-season job board for both internships and new grad tech positions. <sup><sub>
