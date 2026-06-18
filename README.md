@@ -45,19 +45,11 @@ If you have a resource that helped you land a role and belong on this list, feel
 
 ## Job Boards
 
-[Carbos](https://www.carbosjobs.com/) <sub><sup> Aggregated job board for US/Canadian internships with recruiter contacts. <sup><sub>
-
 [YC Internship Program](https://www.workatastartup.com/internships) <sub><sup> YC-hosted program that connects startup-minded students with rising startups. <sup><sub>
 
-[Pitt CSC x Simplify Repo](https://github.com/SimplifyJobs/Summer2024-Internships) <sub><sup> Actively maintained US internship job board with some off season postings. <sup><sub>
+[Pitt CSC x Simplify Repo](https://github.com/SimplifyJobs/Summer2026-Internships) <sub><sup> Actively maintained internship job board with some off season postings. <sup><sub>
 
-[Northwestern FinTech Repo](https://github.com/northwesternfintech/2024QuantInternships) <sub><sup> S24 quant internship job board. <sup><sub>
-
-[Canadian Tech Internships](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2024) <sub><sup> Job board for solely Canadian internships. <sup><sub>
-
-[S24 SWE Internships](https://github.com/AlanChen4/Summer-2024-SWE-Internships) <sub><sup> Summer 2024 SWE role job board. <sup><sub>
-
-[Tech/New Grad Positions](https://github.com/Trident-Development/2024-new-grad-intern) <sub><sup> All-season job board for both internships and new grad tech positions. <sup><sub>
+[Quant Internships](https://github.com/northwesternfintech/2027QuantInternships)<sub><sup> from North Western Fintech. <sup><sub>
 
 [SWE List](https://swelist.com/)
 
@@ -67,15 +59,13 @@ If you have a resource that helped you land a role and belong on this list, feel
 
 [Work at a Startup](https://www.workatastartup.com/) <sub><sup> Apply to top YC startup jobs with a single profile. <sup><sub>
 
-[Gen She](https://jobs.generationshe.co/)  <sub><sup> Girl power :) <sup><sub>
-
 ## Software
 
 [CSCareers](https://www.cscareers.dev/) <sub><sup> Rising platform for job postings and application tracking functionality. <sup><sub>
 
 [Simplify](https://simplify.jobs/) <sub><sup> Browser extension for autofilling job applications. <sup><sub>
 
-[levels.fyi](https://www.levels.fyi/internships/) <sub><sup> Internship platform for checking role compensations. <sup><sub>
+[levels.fyi](https://www.levels.fyi/internships/) <sub><sup> Platform for checking role compensations. <sup><sub>
 
 
 ## Additional Resources
