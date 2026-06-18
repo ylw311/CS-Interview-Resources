@@ -1,4 +1,8 @@
-# Collection of Interview/Programming Resources
+# SWE Job Hunt Hub: Prep, Job Boards, and Tools
+A curated, all-in-one directory of study materials, interview prep platforms, active job boards, and application tools designed to help candidates streamline their software engineering job hunt and ace technical interviews.
+
+Contributions are welcomed! 
+If you have a resource that helped you land a role and belong on this list, feel free to open a PR, but please keep captions concise and under 15 words. 
 
 
 ## Books
