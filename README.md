@@ -65,6 +65,8 @@ If you have a resource that helped you land a role and belong on this list, feel
 
 [Simplify](https://simplify.jobs/) <sub><sup> Browser extension for autofilling job applications. <sup><sub>
 
+[ResumeAI](https://withresumeai.com/) <sub><sup> Free ATS checker + AI resume builder. <sup><sub>
+
 [levels.fyi](https://www.levels.fyi/internships/) <sub><sup> Platform for checking role compensations. <sup><sub>
 
 
