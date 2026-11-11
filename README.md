@@ -38,6 +38,8 @@ If you have a resource that helped you land a role and belong on this list, feel
 
 [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/) <sub><sup> Do leetcode based on category. </sup></sub>
 
+[Nyrion](https://nyrion.ai) <sub><sup> Practice for AI-assisted coding interviews, with an AI assistant in the editor and an interviewer who asks about your code. </sup></sub>
+
 [Visualize PathFinding Algorithms](https://qiao.github.io/PathFinding.js/visual/) <sub><sup> Visualize Pathfinding algorithms. </sup></sub>
 
 
